@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://dhanunjaya20.github.io/Shri-Pratti-NarayanaRaoGaru-Website/sitemap.xml
+Sitemap: https://dhanunjaya20.github.io/Shri-Pratti-NarayanaRaoGaru-Website/sitemap-v2.xml
